@@ -1,0 +1,1 @@
+export {default as Navber} from './navbar/navbar'
